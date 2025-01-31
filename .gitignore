@@ -8,3 +8,6 @@ Thumbs.db
 *.suo
 *.userosscache
 *.sln.docstates
+config
+id_rsa
+id_rsa.pub
