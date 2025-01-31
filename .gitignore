@@ -1,0 +1,10 @@
+/bin
+/obj
+.vs
+.vscode
+Thumbs.db
+.nuget
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
